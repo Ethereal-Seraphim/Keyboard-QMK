@@ -1,2 +1,2 @@
 # Keyboard-QMK
-These are my WIP JSON files for the QMK graphical configurator.
+This is a collection of files used for the graphical qmk configurator, and qmk firmware.
